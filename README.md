@@ -63,7 +63,7 @@
 
 1. Скачайте или клонируйте репозиторий:
    ```bash
-   git clone https://github.com/<ваш-username>/taskflow.git
+   git clone https://github.com/mitya080901/TaskFlow.git
    cd taskflow
    ```
 2. Откройте файл `index.html` в браузере двойным кликом.  
